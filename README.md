@@ -1,9 +1,9 @@
-Project: E-Commerce Search Service.
+**Project: E-Commerce Search Service**.
 
-Business Requirement:
+**Business Requirement**:
 Create a web service that supports website search operations for a fictional e-commerce platform. Users should be able to search for products based on keywords and retrieve relevant results quickly. The system should be scalable, efficient, and user-friendly.
 
-Technical Specifications:
+**Technical Specification**:
 
 1. Technology Stack:
    - Use Spring Boot as the primary framework for building the service.
@@ -30,5 +30,5 @@ Technical Specifications:
    - Create comprehensive documentation for the APIs, including usage examples and response formats.
    - Document the database schema and any external dependencies.
   
-7. 
+ 
 
